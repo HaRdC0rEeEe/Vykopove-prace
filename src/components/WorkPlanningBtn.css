@@ -1,0 +1,11 @@
+.cantSubmit {
+    background-color: red;
+    cursor: not-allowed;
+
+}
+
+.canSubmit {
+    background-color: green;
+    cursor: pointer;
+
+}
